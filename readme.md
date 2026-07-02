@@ -39,7 +39,7 @@
     <td>
       <a href="https://shawnschwartz.com">Portfolio</a> •
       <a href="https://www.linkedin.com/in/shawnts/">LinkedIn</a> •
-      <a href="https://shawnschwartz.com/cv.pdf">CV</a> •
+      <a href="https://files.shawnschwartz.com/cv.pdf">CV</a> •
       <a href="https://scholar.google.com/citations?user=xII63_wAAAAJ&hl=en&oi=ao">Google Scholar</a> •
       <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Schwartz+ST%5BAuthor%5D">PubMed</a>
     </td>
