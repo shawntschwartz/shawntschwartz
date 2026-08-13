@@ -29,11 +29,11 @@
   <tr>
     <td>
       <strong>Published <code>R</code> Packages on CRAN</strong><br>
-      • <strong><a href="https://shawnschwartz.com/eyeris">eyeris</a></strong>:
+      • <strong><a href="https://eyeris.shawnschwartz.com">eyeris</a></strong>:
       reproducible pupillometry preprocessing&nbsp;<img src="http://cranlogs.r-pkg.org/badges/grand-total/eyeris?color=brightgreen" /><br />
-      • <strong><a href="https://shawnschwartz.com/charisma">charisma</a></strong>:
+      • <strong><a href="https://charisma.shawnschwartz.com">charisma</a></strong>:
       automated color analysis of images&nbsp;<img src="http://cranlogs.r-pkg.org/badges/grand-total/charisma?color=brightgreen" /><br />
-      • <strong><a href="https://shawnschwartz.com/reaborn">reaborn</a></strong>:
+      • <strong><a href="https://reaborn.org">reaborn</a></strong>:
       seaborn for R&nbsp;<img src="http://cranlogs.r-pkg.org/badges/grand-total/reaborn?color=brightgreen" />
     </td>
     <td>
