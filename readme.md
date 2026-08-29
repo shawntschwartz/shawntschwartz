@@ -1,6 +1,8 @@
 ## <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/png/slack.png" width="2%" /> Data Scientist & Software Engineer
 ### 🎓 PhD from Stanford Psych
-### 🚧 Currently building Carbon ([carbonapp.co](https://carbonapp.co)) - download today for free!
+### 🚧 Currently building:
+- Aero ([aeromail.ai](https://aeromail.ai)) - join the waitlist today!
+- Carbon ([carbonapp.co](https://carbonapp.co)) - download today for free!
 <table>
   <tr>
     <td>
